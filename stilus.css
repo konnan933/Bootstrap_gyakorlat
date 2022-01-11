@@ -1,0 +1,19 @@
+body{
+    background: url("hatter.jpg")
+}
+main, nav, header, article, aside, footer, td{
+    background:white;
+    border: solid 1px black;
+}
+.row{
+    margin: auto;
+}
+a{
+    color: white;
+}
+.list-group{
+    float: left;
+}
+table{
+    
+}
